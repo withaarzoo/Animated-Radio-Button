@@ -1,6 +1,6 @@
 # Animated Radio Button
 
-This project demonstrates a simple yet visually appealing animated radio button implemented using only HTML and CSS. It provides an interactive way to select options with animated effects.
+This project demonstrates a simple yet visually appealing animated radio button implemented using only HTML and CSS. It provides an interactive way to select options with animated effects .
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Animated-Radio-Button/assets/59678435/842d8895-5c52-428b-8b90-9e29ad2d3fd5)
